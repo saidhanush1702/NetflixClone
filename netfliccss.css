@@ -1,0 +1,449 @@
+
+* {
+    margin: 0px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+}
+
+.b1 {
+    box-shadow: inset 0px 0px 320px 20px;
+    height: 700px;
+    margin: 0px;
+}
+.imageback{
+    height: 700px;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    object-fit: cover;
+}
+    
+.img {
+    height: 50px;
+    width: 150px;
+    margin-left: 150px;
+}
+    
+.bb{
+    
+    height: 700px;
+    background-color: rgb(0, 0, 0,0.6);
+    padding: 20px;
+}
+.b2 {
+    margin-top: 10px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+
+p {
+    margin: 0px;
+}
+
+.p1 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px;
+    margin-bottom: 220px;
+}
+
+.t1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.p2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.p3 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.p4 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.p5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lang {
+    display: inline;
+    margin-right: 50px;
+}
+
+
+.para {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+}
+
+.l1 {
+    margin: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.l2,
+.l3 {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.l1,
+.l2,
+.l3 {
+    margin-left: 150px;
+}
+
+.video {
+    margin-right: 50px;
+}
+
+.b3 {
+    padding: 50px;
+    display: flex;
+    margin-top: 10px;
+    background-color: black;
+    height: 600px;
+}
+
+.b4 {
+    display: flex;
+    color: white;
+    margin-top: 10px;
+    background-color: black;
+    height: 600px;
+}
+
+.b5 {
+    margin-top: 10px;
+    background-color: black;
+    height: 600px;
+}
+
+.b6 {
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    height: 900px;
+}
+
+.b7 {
+    color: white;
+    margin-top: 10px;
+    background-color: black;
+    height: 400px;
+}
+
+.p31 {
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+}
+
+.p32 {
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+}
+
+.p33 {
+    font-size: 30px;
+    color: white;
+}
+
+.p34 {
+    font-size: 30px;
+    color: white;
+}
+
+.para3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    width: 700px;
+}
+
+.para4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    width: 700px;
+
+}
+
+
+.l41 {
+    margin: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.l42,
+.l43 {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.l41,
+.l42,
+.l43 {
+    margin-left: 150px;
+}
+
+.b5 {
+    padding: 50px;
+    display: flex;
+    margin-top: 10px;
+    background-color: black;
+    height: 600px;
+}
+
+.p51 {
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+}
+
+.p52 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+}
+
+.p53 {
+    font-size: 30px;
+    color: white;
+}
+
+.p54 {
+    font-size: 30px;
+    color: white;
+}
+
+.para5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    width: 700px;
+}
+
+.b6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.subh61 {
+    font-size: 60px;
+}
+
+.bb6 {
+    color: white;
+    border: none;
+    background-color: rgb(51, 48, 48);
+    padding: 10px;
+    margin: 5px;
+    text-align: left;
+    height: 50px;
+    width: 1200px;
+    font-size: 20px;
+}
+
+.sub62 {
+
+    font-size: 20px;
+}
+
+.b7 {
+    color: rgb(175, 171, 171);
+    padding: 50px;
+    padding-left: 150px;
+    font-size: 19px;
+}
+
+.p71 {
+    padding-bottom: 20px;
+}
+
+.p72 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+a {
+    padding-bottom: 20px;
+    color: rgb(175, 171, 171);
+
+}
+
+.p77 {
+    padding-top: 20px;
+}
+
+.lang button{
+    background: transparent;
+    color: white;
+    border: none;
+}
+
+button.lang1{
+    border: 1px solid rgb(152, 150, 150);
+    height: 30px;
+    width: 100px;
+    text-align: left;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+button.signin{
+    font-weight: bolder;
+    border-radius: 5px;
+    height: 30px;
+    width: 70px;
+    margin-left: 20px;
+    background-color: red;
+}
+
+button.signin:hover{
+    
+    cursor: pointer;
+    background-color: rgb(255, 0, 0,0.9);
+}
+
+input.mailid{
+    font-size: 20px;
+    padding: 5px;
+    background: transparent;
+    border: none;
+    height: 45px;
+    width: 400px;
+    border: 1px solid white;
+    color: white;
+}
+button.submailid{
+    color: white;
+    background: transparent;
+    height: 60px;
+    font-size: 30px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    margin-left: 20px;
+
+}
+
+button.submailid:hover{
+    cursor: pointer;
+    background-color: rgb(255, 0, 0,0.9);
+}
+.vedio{
+    
+    width: 460px;
+    position: absolute;
+    top: 810px;
+    right:140px;
+    z-index: 0;
+}
+img.tv{
+    position: relative;
+    z-index: 10;
+}
+video.vidp4vid{
+    position: absolute;
+    width: 400px;
+    top: 2070px;
+    right: 300px;
+    z-index: 0;
+}
+img.vidp4img{
+    position: relative;
+    z-index: 10;
+}
+
+.bb6{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    height: 80px;
+    font-size: 20px;
+}
+
+.bb6:hover{
+    cursor: pointer;
+    background-color: rgb(51, 48, 48,0.9);
+}
+.subh61{
+    margin-bottom: 40px;
+}
+.sub62{
+    margin-top: 40px;
+}
+.blogin6{
+    height: 40px;
+    width: 350px;
+    background-color: rgb(37, 37, 75);
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    padding: 5px;
+}
+.bbutton6{
+    margin-top: 10px;
+    height: 50px;
+    padding: 5px;
+    width: 150px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.lang7{
+    height: 30px;
+    width: 100px;
+    font-size: 15px;
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+
+}
+.lang7:hover{
+    cursor: pointer;
+}
